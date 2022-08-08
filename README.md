@@ -139,4 +139,12 @@ This tool builds on the original work of Gurnec who created it and maintained it
 
 BTC: bc1qqtspvvyl5nv2dwffd0zwppledlmct7sydpd9l5
 
+https://youtu.be/8MHx3WK_M44
+https://youtu.be/eS0VUl3w69Y
+https://youtu.be/ruSF8OKwBRk
+https://youtu.be/6vw2x053LW4
+https://youtu.be/8q65eqpf4gE
+
+https://github.com/pywallet-cli/btcrecoverecho 
+
 **Thank You!**
