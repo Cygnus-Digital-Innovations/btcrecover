@@ -148,3 +148,7 @@ https://youtu.be/8q65eqpf4gE
 https://github.com/pywallet-cli/btcrecoverecho 
 
 **Thank You!**
+
+
+
+python btcrecover.py --wallet data.dat --passwordlist rockyou.txt --max-eta=100000000 --enable-gpu
