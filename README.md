@@ -149,6 +149,6 @@ https://github.com/pywallet-cli/btcrecoverecho
 
 **Thank You!**
 
-
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
 python btcrecover.py --wallet data.dat --passwordlist rockyou.txt --max-eta=100000000 --enable-gpu
